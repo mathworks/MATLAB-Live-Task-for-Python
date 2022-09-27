@@ -58,7 +58,7 @@ and retrieve the required variables to be used back in MATLAB:
 
 ![img/pythonTask7.png](img/pythonTask7.png)
 
-The equivalent MATLAB code to run either the Python statements (using [`pyrun`](pyrun)) or a Python script (using [`pyrunfile`](https://www.mathworks.com/help/matlab/ref/pyrunfile.html)) is generated and run automatically by default like any live task:
+The equivalent MATLAB code to run either the Python statements (using [`pyrun`](https://www.mathworks.com/help/matlab/ref/pyrun.html)) or a Python script (using [`pyrunfile`](https://www.mathworks.com/help/matlab/ref/pyrunfile.html)) is generated and run automatically by default like any live task:
 
 ![img/pythonTask8.png](img/pythonTask8.png)
 
