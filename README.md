@@ -11,7 +11,7 @@ The MATLAB® Live Task for Python® enables you to write and execute Python code
 * MATLAB R2022a or later
 
 ### Required 3rd Party Products
-* Python (supported Python versions by MATLAB release can be found [here](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/sysreq/files/python-compatibility.pdf))
+* Python (supported Python versions by MATLAB release can be found [here](https://www.mathworks.com/support/requirements/python-compatibility.html))
 
 ---
 
