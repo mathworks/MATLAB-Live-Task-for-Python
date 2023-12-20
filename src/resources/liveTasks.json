@@ -1,10 +1,10 @@
 {
-  "RunPythonTask": {
-    "name": "Run Python Code",
-    "description": "Run Python statements or script file",
-    "icon": "Python_logo_icon.png",
-    "keywords": "python",
-    "uniqueId": "pyruntask",
-    "docLink": "fullfile(docroot,'matlab','matlab_external','ways-to-call-python-from-matlab.html')"
-  }
+    "RunPythonTask":{
+        "description":"Run Python statements or script file",
+        "docLink":"fullfile(docroot,'matlab','matlab_external','ways-to-call-python-from-matlab.html')",
+        "icon":"PythonLiveTaskIcon.png",
+        "keywords":"python",
+        "name":"Run Python Code",
+        "uniqueId":"pyruntask"
+    }
 }

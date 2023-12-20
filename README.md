@@ -96,4 +96,4 @@ The license is available in the License file within this repository
 
 Copyright © 2022 MathWorks, Inc. All rights reserved.
 
-"Python" and the Python logos are trademarks or registered trademarks of the Python Software Foundation, used by MathWorks with permission from the Foundation.
+"Python" is a registered trademark of the Python Software Foundation.
