@@ -2,6 +2,8 @@
 
 [![View MATLAB Live Task for Python on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/111240-matlab-live-task-for-python)
 
+_If using MATLAB R2024a or later, use the [Run Python Python Live Editor Live Task](https://www.mathworks.com/help/matlab/ref/runpythoncode.html) instead._
+
 The MATLAB® Live Task for Python® enables you to write and execute Python code directly inside of a MATLAB Live Script. Since R2022a, MATLAB provides a way to develop your own [custom live task](https://www.mathworks.com/help/matlab/creating_guis/live-task-development-overview.html).
 
 ---
