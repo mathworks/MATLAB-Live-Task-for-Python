@@ -1,5 +1,6 @@
 # MATLAB Live Task for Python
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=yanndebray/MATLAB-Live-Task-for-Python&file=examples/GettingStarted.mlx)
 [![View MATLAB Live Task for Python on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/111240-matlab-live-task-for-python)
 
 _If using MATLAB R2024a or later, use the [Run Python Python Live Editor Live Task](https://www.mathworks.com/help/matlab/ref/runpythoncode.html) instead._
